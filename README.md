@@ -1,7 +1,7 @@
 # 👋 Hello, I'm HO BIN!
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="300px" />
+  <img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="500px" />
 </div>
 
 ## 📌 About Me
