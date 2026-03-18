@@ -18,7 +18,7 @@
 ---
 
 ### Tech Stack (Learning)
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+<img src="https://img.shields.io/badge/K-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 
 ---
 ###  Contact
