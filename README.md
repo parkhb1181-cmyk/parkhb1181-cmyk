@@ -12,14 +12,6 @@
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-</p>
-
----
-
 ## 📈 My Goals (This Month)
 - [ ] 잘못된 코드 다 찝어내기
 - [ ] 개인 프로젝트 아이디어 구상하기
