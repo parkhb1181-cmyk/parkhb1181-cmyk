@@ -1,7 +1,8 @@
 # 👋 Hello, I'm HO BIN!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=HO%20BIN's%20Dev%20Log&fontSize=70" />
+  <img src="![KakaoTalk_20230804_231400180](https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81)
+ />
 </div>
 
 ## 📌
