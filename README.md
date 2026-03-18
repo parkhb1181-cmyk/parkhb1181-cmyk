@@ -1,8 +1,7 @@
 # 👋 Hello, I'm HO BIN!
 
 <div align="center">
-  <img src="![KakaoTalk_20230804_231400180](https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81)
- />
+  <img src="![KakaoTalk_20230804_231400180](https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81)>
 </div>
 
 ## 📌
