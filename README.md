@@ -1,25 +1,31 @@
-# HO BIN의 개발 여정
+# 👋 Hello, I'm HO BIN!
 
-###  안녕하세요 개발자로 성장 중인 HO BIN입니다.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=HO%20BIN's%20Dev%20Log&fontSize=70" />
+</div>
 
----
-
-##  나에 대한 기록
-
-### 왜 개발을 배우려 하는가
-> **CEO**
-
-###  내가 기대하는 개발자의 모습
-> **모르는 것이 없는 개발자.**
-> 
-###  한 달 뒤 바뀌고 싶은 점
-- 프로그래밍 기초 문법 완전히 마스터하기
+## 📌
+> **"비즈니스를 기술로 실현하는 CEO를 꿈꿉니다."**
+* **Motivation:** 기술적 메커니즘을 직접 이해하고 리딩할 수 있는 CEO가 되기 위해 개발을 배웁니다.
+* **Vision:** 어떤 기술적 난관도 해결책을 제시할 수 있는 '모르는 게 없는 개발자'.
+* **Goal:** 한 달 안에 프로그래밍 기초 문법을 완벽히 마스터하는 것.
 
 ---
 
-### Tech Stack (Learning)
-<img src="https://img.shields.io/badge/K-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+</p>
 
 ---
-###  Contact
-📧 **Email:** parkhb1181@gmail.com
+
+## 📈 My Goals (This Month)
+- [x] GitHub 프로필 설정 완료하기
+- [ ] Java 기초 문법 마스터하기
+- [ ] 개인 프로젝트 아이디어 구상하기
+
+---
+
+## 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkhb1181@gmail.com)](mailto:parkhb1181@gmail.com)
